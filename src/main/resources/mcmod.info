@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mantra",
+  "name": "口头禅",
+  "description": "一个可以修改聊天消息的模组",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/RiLuoC/Mantra",
+  "updateUrl": "",
+  "authorList": ["日落丶"],
+  "credits": "",
+  "logoFile": "assets/mantra/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
